@@ -1,0 +1,10 @@
+matplotlib
+numpy
+tqdm
+glob2
+pytest-shutil
+nibabel
+monai
+pydicom
+SimpleITK
+pytorch
